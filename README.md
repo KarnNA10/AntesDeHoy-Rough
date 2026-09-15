@@ -1,6 +1,6 @@
 # AntesDeHoy-Rough
 
-Rough animations for Majo's proyect "Antes de Hoy"
+Rough animations for Majo's project "Antes de Hoy"
 
 
 
