@@ -4,13 +4,23 @@ Rough animations for Majo's project "Antes de Hoy"
 
 
 
-Shots 4-9 (not 7)
+
+
+
+
+CHANGE OF PLANS
 
 
 
 
 
-|S\_04|S\_05|S\_06|S\_07<br />-|
+
+
+Shots 04, 15
+
+
+
+|S\_04|S\_15|S\_06|S\_07<br />-|
 |-|-|-|-|
 |S\_08|S\_09|--|--|
 
