@@ -4,4 +4,9 @@
  <element id="2" elementName="S10_P10_E1" elementFolder="S10_P10_E1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="3" elementName="Screenshot_2026" elementFolder="Screenshot_2026" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="4" elementName="ojos_Aurora" elementFolder="ojos_Aurora" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="5" elementName="petra_1" elementFolder="petra_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="6" elementName="Screenshot_2026" elementFolder="Screenshot_2026.6" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="8" elementName="Screenshot_2026" elementFolder="Screenshot_2026.8" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="Petra_cuerpoo" elementFolder="Petra_cuerpoo" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="petra_boca" elementFolder="petra_boca" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
